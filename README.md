@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyprsh0t" alt="hyprsh0t" /></a> </p>
 
-- 🔭 I’m currently working on **Kyte**, **Bible-API**, & **GradeMate**
+- 🔭 I’m currently working on **Kyte**, **Proxbox**, **Bible-API**, & **GradeMate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
