@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on **Kyte**, **Proxbox**, **Bible-API**, & **GradeMate**
 
 <h3 align="left">Connect with me:</h3>
+- Actually, how bout we don't connect.
 <p align="left">
 </p>
 
